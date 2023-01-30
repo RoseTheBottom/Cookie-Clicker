@@ -4,7 +4,7 @@ import time
 
 canvas = tk.Tk()
 canvas.title("clicker")
-canvas.geometry("400x600")
+canvas.geometry("400x150")
 canvas.config(bg = '#A65AF2')
 
 
